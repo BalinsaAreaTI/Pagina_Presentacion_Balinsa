@@ -149,7 +149,7 @@ document.addEventListener("DOMContentLoaded", function() {
         <nav class="bg-white border-gray-200 dark:border-gray-600 dark:bg-gray-800 shadow-lg fixed top-0 left-0 w-full max-h-[72px] z-50">
             <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl h-[72px] px-4">
                 <a href="#" class="flex items-center justify-center space-x-2 h-[72px] rtl:space-x-reverse">
-                    <img src="../../public/img/icon.png" class="h-12" alt="Flowbite Logo" />
+                    <img src="/img/icon.png" class="h-12" alt="Flowbite Logo" />
                     <div class="flex flex-col justify-center items-start">
                         <span class="leading-[0.8] text-lg md:leading-[0.8] balinsaLetra md:text-xl font-semibold whitespace-nowrap text-[#251F17] dark:text-white">INDUSTRIAS</span>
                         <span class="leading-[0.8] text-2xl md:leading-[0.8] balinsaLetra md:text-4xl font-semibold whitespace-nowrap text-[#251F17] dark:text-white">BALINSA</span>
@@ -198,7 +198,7 @@ document.addEventListener("DOMContentLoaded", function() {
             </div>
         </nav>
         <!-- Termina Contenido del nav -->
-        <section class="w-screen h-screen bg-[url('../../public/img/fondo.jpg')] bg-cover bg-center bg-no-repeat bg-mainEdinson relative flex justify-center">
+        <section class="w-screen h-screen bg-cover bg-center bg-no-repeat bg-mainEdinson relative flex justify-center" id="inicioIMG">
             <div class="absolute z-20 w-full h-full max-w-screen-xl">
                 <div class="flex justify-center items-center w-full h-full flex-col">
                     <div class="flex flex-col max-w-3xl gap-6 md:gap-10 px-4">
@@ -293,31 +293,31 @@ document.addEventListener("DOMContentLoaded", function() {
         <div class="w-full h-16 absolute z-30 flex items-center overflow-hidden -bottom-[1px]">
             <div class="relative w-full h-full overflow-hidden">
                 <div class="h-16 absolute -right-[218.50px]" id="trailerImg">
-                    <img src="../../public/img/luces.png" alt="Luces" class="h-16 opacity-0 dark:opacity-100 absolute dark:relative"/>
-                    <img src="../../public/img/trailer 1C-01.png" alt="Trailer" class="h-16"/>
+                    <img src="/img/luces.png" alt="Luces" class="h-16 opacity-0 dark:opacity-100 absolute dark:relative"/>
+                    <img src="/img/trailer 1C-01.png" alt="Trailer" class="h-16"/>
                 </div>
                 <div class="relative w-full h-7">
-                    <img src="../../public/img/B.png" alt="" class="h-7 absolute -bottom-[17px] -right-[30.2px]" id="BImg">
-                    <img src="../../public/img/A.png" alt="" class="h-7 absolute -bottom-[17px] -right-[30.2px]" id="A1Img">
-                    <img src="../../public/img/L.png" alt="" class="h-7 absolute -bottom-[17px] -right-[30.2px]" id="LImg">
-                    <img src="../../public/img/I.png" alt="" class="h-7 absolute -bottom-[17px] -right-[30.2px]" id="IImg">
-                    <img src="../../public/img/N.png" alt="" class="h-7 absolute -bottom-[17px] -right-[30.2px]" id="NImg">
-                    <img src="../../public/img/S.png" alt="" class="h-7 absolute -bottom-[17px] -right-[30.2px]" id="SImg">
-                    <img src="../../public/img/A2.png" alt="" class="h-7 absolute -bottom-[17px] -right-[30.2px]" id="A2Img">
+                    <img src="/img/B.png" alt="" class="h-7 absolute -bottom-[17px] -right-[30.2px]" id="BImg">
+                    <img src="/img/A.png" alt="" class="h-7 absolute -bottom-[17px] -right-[30.2px]" id="A1Img">
+                    <img src="/img/L.png" alt="" class="h-7 absolute -bottom-[17px] -right-[30.2px]" id="LImg">
+                    <img src="/img/I.png" alt="" class="h-7 absolute -bottom-[17px] -right-[30.2px]" id="IImg">
+                    <img src="/img/N.png" alt="" class="h-7 absolute -bottom-[17px] -right-[30.2px]" id="NImg">
+                    <img src="/img/S.png" alt="" class="h-7 absolute -bottom-[17px] -right-[30.2px]" id="SImg">
+                    <img src="/img/A2.png" alt="" class="h-7 absolute -bottom-[17px] -right-[30.2px]" id="A2Img">
                 </div>
             </div>
             <div class="absolute h-full overflow-hidden -right-[174.50px] dark:-right-[218.50px] z-30 w-[174.50px] dark:w-[218.50px] bottom-0" id="divTrailerPesas">
                 <div class="relative w-full">
-                    <img src="../../public/img/luces.png" alt="Luces" class="h-16 w-full opacity-0 dark:opacity-100 absolute dark:relative"/>
-                    <img src="../../public/img/trailer 1C-01.png" alt="Trailer" class="h-16 w-full"/>
+                    <img src="/img/luces.png" alt="Luces" class="h-16 w-full opacity-0 dark:opacity-100 absolute dark:relative"/>
+                    <img src="/img/trailer 1C-01.png" alt="Trailer" class="h-16 w-full"/>
                     <div class="absolute top-0 h-7 w-full">
-                        <img src="../../public/img/B.png" alt="" class="h-7 absolute -bottom-[17px] right-[117.5px]">
-                        <img src="../../public/img/A.png" alt="" class="h-7 absolute -bottom-[17px] right-[97.5px]">
-                        <img src="../../public/img/L.png" alt="" class="h-7 absolute -bottom-[17px] right-[77.5px]">
-                        <img src="../../public/img/I.png" alt="" class="h-7 absolute -bottom-[17px] right-[57.5px]">
-                        <img src="../../public/img/N.png" alt="" class="h-7 absolute -bottom-[17px] right-[37.5px]">
-                        <img src="../../public/img/S.png" alt="" class="h-7 absolute -bottom-[17px] right-[17.5px]">
-                        <img src="../../public/img/A2.png" alt="" class="h-7 absolute -bottom-[17px] -right-[2.5px]">
+                        <img src="/img/B.png" alt="" class="h-7 absolute -bottom-[17px] right-[117.5px]">
+                        <img src="/img/A.png" alt="" class="h-7 absolute -bottom-[17px] right-[97.5px]">
+                        <img src="/img/L.png" alt="" class="h-7 absolute -bottom-[17px] right-[77.5px]">
+                        <img src="/img/I.png" alt="" class="h-7 absolute -bottom-[17px] right-[57.5px]">
+                        <img src="/img/N.png" alt="" class="h-7 absolute -bottom-[17px] right-[37.5px]">
+                        <img src="/img/S.png" alt="" class="h-7 absolute -bottom-[17px] right-[17.5px]">
+                        <img src="/img/A2.png" alt="" class="h-7 absolute -bottom-[17px] -right-[2.5px]">
                     </div>
                 </div>
             </div>
@@ -326,6 +326,10 @@ document.addEventListener("DOMContentLoaded", function() {
 </template>
 
 <style scoped>
+
+#inicioIMG{
+    background-image: url('/img/fondo.jpg');
+}
 
 li.current {
     border-bottom: 3px solid #FEAA1A;

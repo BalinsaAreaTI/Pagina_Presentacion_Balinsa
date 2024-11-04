@@ -14,7 +14,7 @@ onMounted(() => {
             <div class="w-full flex justify-center items-start md:items-center gap-4 flex-col md:flex-row">
                 <div class="flex-1">
                     <a href="#" class="flex items-center justify-start space-x-2 h-[72px] rtl:space-x-reverse">
-                        <img src="../../public/img/icon.png" class="h-10" alt="Flowbite Logo" />
+                        <img src="/img/icon.png" class="h-10" alt="Flowbite Logo" />
                         <div class="flex flex-col justify-center items-start">
                             <span class="leading-[0.8] text-sm balinsaLetra font-semibold whitespace-nowrap text-white">INDUSTRIAS</span>
                             <span class="leading-[0.8] text-2xl balinsaLetra font-semibold whitespace-nowrap text-white">BALINSA</span>

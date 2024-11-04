@@ -53,12 +53,12 @@ updateTabClasses();
         <div class="w-full mb-10">
             <h1 class="text-center text-4xl md:text-5xl font-bold text-[#251F17] dark:text-white">Nosotros</h1>
             <div class="h-4 w-full">
-                <div class="bg-[url('../../public/img/onda.svg')] bg-[length:22px_15px] w-40 h-4 m-auto"></div>
+                <div class="bg-[url('/img/onda.svg')] bg-[length:22px_15px] w-40 h-4 m-auto"></div>
             </div>
         </div>
         <div class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-4xl dark:border-gray-700 dark:bg-gray-800">
             <div class="object-cover rounded-t-lg w-full md:h-96 md:w-[450px] md:rounded-none md:rounded-s-lg">
-                <img class="object-cover object-left md:h-96 w-full md:w-[450px] rounded-t-lg md:rounded-none md:rounded-s-lg" src="../../public/img/balanzaparapesarcamion.png" alt="" lazy="loading">
+                <img class="object-cover object-left md:h-96 w-full md:w-[450px] rounded-t-lg md:rounded-none md:rounded-s-lg" src="/img/balanzaparapesarcamion.png" alt="" lazy="loading">
             </div>
             <div class="flex flex-col justify-between p-4 leading-normal w-full">
                 <h5 class="mb-2 text-xl md:text-2xl font-bold tracking-tight text-[#251F17] dark:text-white">CREAMOS E IMPLEMENTAMOS ESTRATEGIAS DE AUTOMATIZACIÓN INTEGRALES</h5>

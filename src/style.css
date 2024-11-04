@@ -1,11 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+@font-face {
+  font-family: 'Alpha Male Modern';
+  src: url('~@/assets/fonts/AlphaMaleModern.ttf');
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@font-face {
-  font-family: 'Alpha Male Modern';
-  src: url('/edinson_2024/font/AlphaMaleModern.ttf') format('truetype');
-}
 
 .text-balinsa{
   color: #FEAA1A;
